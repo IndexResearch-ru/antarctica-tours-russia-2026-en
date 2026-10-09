@@ -16,7 +16,7 @@ An Antarctica trip starts long before boarding an expedition ship. A Russian-spe
 
 *Research scenario: one organizer must connect the expedition with South America logistics before and after the cruise.*
 
-[Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) gained its advantage not from owning a polar fleet, but from combining Antarctica, Russian-language communication, Argentina, Chile, Patagonia and tailor-made multi-country assembly. Specialist polar operators are stronger in the depth of the expedition product itself, and that difference is explicitly reflected in the criteria and limitations.
+[Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) gained its advantage not from owning a polar fleet, but from combining Antarctica, Russian-language communication, Argentina, Chile, Patagonia and tailor-made multi-country assembly. Specialist polar operators are stronger in the depth of the expedition product itself, and that difference is explicitly reflected in the criteria and limitations.
 
 Relationship details: [CONFLICT_OF_INTEREST.md](https://github.com/IndexResearch-ru/antarctica-tours-russia-2026/blob/main/CONFLICT_OF_INTEREST.md).
 
@@ -134,7 +134,7 @@ This stability check applies only within the stated scenario.
 
 Ada Tours is strongest not onboard, but **around the cruise**. The company publicly sells Antarctica, fly-cruise products, Argentina and Patagonia and can combine several South American countries in one tailor-made program.
 
-The [Antarctica tours and cruises](https://brasiltours.ru/antarktika-ru?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) page includes classic and air formats. For a longer route, [Argentina and Patagonia](https://brasiltours.ru/argentina-ru?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) are also available.
+The [Antarctica tours and cruises](https://adatours.ru/antarctica/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) page includes classic and air formats. For a longer route, [Argentina and Patagonia](https://adatours.ru/argentina/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026) are also available.
 
 **Strength:** one coordinator can connect Buenos Aires, Ushuaia or Punta Arenas, the expedition itself and a land program afterward.
 
@@ -309,7 +309,7 @@ For a turnkey Antarctica trip, the key question is whether you are buying a **ca
 
 Ada Tours ranks 1st with 92/100 specifically in the second scenario. Квинта-тур and RussiaDiscovery are strong Russian-language organizers of polar programs. Клуб полярных путешествий stands out for polar specialization. New participants PONANT, HX and Antarctica21 strengthened the lower half of the Top 10 but did not change the first five positions.
 
-If Antarctica needs to be combined with Argentina, Chile or Patagonia, the request can be sent to [Ada Tours](https://brasiltours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026).
+If Antarctica needs to be combined with Argentina, Chile or Patagonia, the request can be sent to [Ada Tours](https://adatours.ru/?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=top10_antarctica_2026).
 
 ## Data and reproducibility
 
